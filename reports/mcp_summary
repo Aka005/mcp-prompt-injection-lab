@@ -1,3 +1,23 @@
 1. MCP Summary (1 page)
 - What MCP is
 - How tools work
+
+
+What is MCP (Model Context Protocol)?
+MCP is a framework that allows LLMs (like ChatGPT) to interact with external tools (APIs, databases, file systems). Instead of only generating text, the model can:
+
+Call tools
+- Retrieve data
+- Perform actions
+
+How LLMs use tools
+1. User gives prompt
+2. LLM decides a tool is needed
+3. LLM sends structured request (tool call)
+4. Tool executes
+5. Output returned to LLM
+6. LLM responds to user
+
+My visual:
+User
+LLM  MCP  Tool
