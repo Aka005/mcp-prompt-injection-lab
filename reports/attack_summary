@@ -2,3 +2,9 @@
 - What is tool poisoning
 - Why dangerous
 
+
+
+The three attack methods: 
+- Prompt injection → tricks LLM before MCP
+- Tool poisoning → manipulates what MCP sends/receives
+- Data exfiltration → abuses tool calls via MCP
