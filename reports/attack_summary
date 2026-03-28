@@ -4,6 +4,22 @@
 
 
 
+Normal Method:
+Input Prompt:
+"Get the weather in Tokyo"
+
+Tool Used:
+Weather API
+
+Tool Output:
+"22°C, sunny"
+
+Final Output:
+"It's currently 22°C and sunny in Tokyo."
+
+User → LLM → Weather API → Data → LLM → User
+
+
 The three attack methods: 
 - Prompt injection → tricks LLM before MCP
 - Tool poisoning → manipulates what MCP sends/receives
