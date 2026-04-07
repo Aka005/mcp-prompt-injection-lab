@@ -30,7 +30,7 @@ Claude.ai chat interface and the Anthropic API via Python.
 
 ## Code
 
-All Python scripts are in the `/code` folder:
+All Python scripts are in the `/examples` folder:
 
 | Script | Attack Type | What it does |
 |---|---|---|
