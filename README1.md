@@ -1,4 +1,4 @@
-```
+
 # MCP Tool Poisoning Attack Demonstration (ATPA)
 
 ## Overview
