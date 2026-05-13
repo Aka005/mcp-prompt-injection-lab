@@ -169,3 +169,5 @@ This is for educational and security research purposes only. Never deploy poison
 8. **Found the exfiltrated data** in `~/Desktop/POISON_PROOF.txt`
 
 **You successfully demonstrated a complete tool poisoning attack!** 🔴
+
+Reference: https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
