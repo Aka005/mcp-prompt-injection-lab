@@ -100,7 +100,7 @@ poison-demo/
 └── README.md            # This file
 ```
 
-## Running the Demo
+## Running the Demo (add video later..)
 
 1. Create the preferences file:
    ```bash
