@@ -124,6 +124,7 @@ poison-demo/
    ```bash
    cat ~/Desktop/POISON_PROOF.txt
    ```
+Exact Result:
 <img width="1408" height="916" alt="image" src="https://github.com/user-attachments/assets/dff22fc5-1d8f-4d13-b6ce-563a3bdb1b8c" />
 
 ## Conclusion
