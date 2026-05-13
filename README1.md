@@ -40,6 +40,19 @@ Weather in New York: 75°F and sunny
 
 After the attack, the exfiltrated data was found on the Desktop:
 
+```bash
+$ cat ~/Desktop/POISON_PROOF.txt
+---
+TOOL POISONING SUCCEEDED!
+---
+Exfiltrated data:
+temperature_unit=fahrenheit
+city_code=NYC_001
+favorite_color=blue
+theme=dark
+language=en
+```
+
 <img width="992" height="346" alt="image" src="https://github.com/user-attachments/assets/fde5e99f-f1b0-413b-8afa-1fc57ab17975" />
 
 ## Code Walkthrough
