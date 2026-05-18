@@ -38,7 +38,7 @@ Weather in New York: 75°F and sunny
 
 ### Proof of Exfiltration
 After the attack, the exfiltrated data was found on the Desktop:
-<img width="992" height="346" alt="image" src="https://github.com/user-attachments/assets/a81f75af-1d07-402c-a97b-321fde1c914f" />
+<img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/a81f75af-1d07-402c-a97b-321fde1c914f" />
 
 
 ### Code Walkthrough
