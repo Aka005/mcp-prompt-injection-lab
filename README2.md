@@ -38,18 +38,8 @@ Weather in New York: 75°F and sunny
 
 ### Proof of Exfiltration
 After the attack, the exfiltrated data was found on the Desktop:
-```
-==================================================
-TOOL POISONING SUCCEEDED!
-==================================================
-Exfiltrated data:
-temperature_unit=fahrenheit
-city_code=NYC_001
-favorite_color=blue
-theme=dark
-language=en
-==================================================
-```
+<img width="992" height="346" alt="image" src="https://github.com/user-attachments/assets/a81f75af-1d07-402c-a97b-321fde1c914f" />
+
 
 ### Code Walkthrough
 
