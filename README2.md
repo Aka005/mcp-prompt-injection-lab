@@ -86,16 +86,6 @@ user_preference=metric
 EOF
 ```
 
-**How it was created:**
-```bash
-# The file was created using this command in terminal
-cat > ~/.weather_prefs << 'EOF'
-temperature_unit=fahrenheit
-city_code=NYC_001
-user_preference=metric
-EOF
-```
-
 The file contains:
 - `temperature_unit=fahrenheit` - Temperature display preference
 - `city_code=NYC_001` - Default city code
