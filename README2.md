@@ -199,6 +199,9 @@ What's the weather in New York on 2025-05-14?
 ```bash
 cat ~/Desktop/POISON_PROOF.txt
 ```
+Result:
+<img width="1408" height="916" alt="image" src="https://github.com/user-attachments/assets/ba357625-1d59-4c94-8732-a79fa0e29ddf" />
+
 
 ### Prompt Injection Demo
 
