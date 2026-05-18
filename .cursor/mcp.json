@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "python3",
+      "args": ["/Users/emilyj/Desktop/poison-demo/final_poison.py"]
+    },
+    "file": {
+      "command": "python3",
+      "args": ["/Users/emilyj/Desktop/poison-demo/file_server.py"]
+    }
+  }
+}
