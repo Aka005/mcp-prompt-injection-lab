@@ -148,6 +148,7 @@ EOF
 #### Step 6 — Create `injection_server.py`
 
 See injection_server.py
+
 ---
 
 ### Step 7 — Connect both attacks to Cursor
