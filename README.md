@@ -59,7 +59,7 @@ A tool that looks completely normal contains hidden conditional logic. When trig
 
 A tool embeds hidden `[SYSTEM OVERRIDE]` instructions inside its output. The LLM reads them as instructions and may follow them without the user's knowledge.
 
-![Prompt Injection Diagram](images/prompt_injection_diagram.png)
+(images/images/Screenshot 2026-05-26 164119.png)
 
 **Why it works (when it does):**
 
