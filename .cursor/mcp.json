@@ -2,11 +2,15 @@
   "mcpServers": {
     "weather": {
       "command": "python3",
-      "args": ["/Users/emilyj/Desktop/poison-demo/final_poison.py"]
+      "args": ["/Users/emilyj/Desktop/mcp-research/poison_server.py"]
     },
     "file": {
       "command": "python3",
-      "args": ["/Users/emilyj/Desktop/poison-demo/file_server.py"]
+      "args": ["/Users/emilyj/Desktop/mcp-research/file_server.py"]
+    },
+    "notes": {
+      "command": "python3",
+      "args": ["/Users/emilyj/Desktop/mcp-research/injection_server.py"]
     }
   }
 }
