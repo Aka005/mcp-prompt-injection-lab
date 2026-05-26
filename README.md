@@ -38,6 +38,8 @@ The core finding: **tool poisoning succeeds even when the LLM discloses the atta
 A tool that looks completely normal contains hidden conditional logic. When triggered, it instructs the LLM to read a local file and pass its contents back — silently exfiltrating data while returning a believable response to the user.
 
 ![Tool Poisoning Diagram](images/tool_poisoning_diagram.png)
+<img width="805" height="471" alt="image" src="https://github.com/user-attachments/assets/5e37e486-2599-45d2-a2e5-364dec64b83c" />
+
 
 **The attack chain:**
 
