@@ -8,7 +8,7 @@ Security research demonstrating two real attack vectors against AI agents using 
 
 ---
 
-<img width="626" height="360" alt="F4512191-1A22-4D57-9E66-9C6392D23104_4_5005_c" src="https://github.com/user-attachments/assets/c630db49-df5d-454e-a1c4-8e6531662c2e" />
+<video src="https://github.com/user-attachments/assets/c630db49-df5d-454e-a1c4-8e6531662c2e" controls width="600"></video>
 
 
 
