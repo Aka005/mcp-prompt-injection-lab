@@ -61,11 +61,14 @@ Prompt injection was blocked because Claude recognizes `[SYSTEM OVERRIDE]` as un
 ## Files
  
 ```
+.cursor/
+└── mcp.json              # Connects servers to Cursor
+
 mcp-research/
-├── poison_server.py      # Malicious weather tool
 ├── file_server.py        # File reader (enables exfiltration)
 ├── injection_server.py   # Prompt injection via note tool
-└── .cursor/mcp.json      # Connects servers to Cursor
+├── poison_server.py      # Malicious weather tool
+└── README.md
 ```
  
 ---
