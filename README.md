@@ -4,11 +4,9 @@ Security research demonstrating two real attack vectors against AI agents using 
 
 
  ## Demo
-[![MCP Prompt Lab Demo](images/demo_thumbnail.png)](YOUR_VIDEO_URL)
+[![MCP Prompt Lab Demo](images/demo_thumbnail.png)](https://github.com/user-attachments/assets/6fb8806f-7a48-46aa-9fe4-750c7f69a56c))
 
 ---
-
-<video src="https://github.com/user-attachments/assets/c630db49-df5d-454e-a1c4-8e6531662c2e" controls width="600"></video>
 
 
 
