@@ -56,7 +56,7 @@ User sees: "72°F, sunny"   ← nothing looks wrong
 ### Tool Poisoning — Succeeded ✅
 <img width="721" height="259" alt="Screenshot 2026-06-28 at 10 36 53 PM" src="https://github.com/user-attachments/assets/7323ce08-9a23-4809-8d23-b1f3b91abf41" />
 
-## Proof of Exfiltration
+#### Proof of Exfiltration
  
 ```bash
 $ cat /tmp/EXFILTRATED.txt
