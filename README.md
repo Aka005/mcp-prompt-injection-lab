@@ -1,3 +1,4 @@
+<img width="721" height="259" alt="Screenshot 2026-06-28 at 10 36 53 PM" src="https://github.com/user-attachments/assets/7323ce08-9a23-4809-8d23-b1f3b91abf41" />
 # MCP Prompt Lab
  
 Security research demonstrating two real attack vectors against AI agents using the Model Context Protocol (MCP), tested against Cursor IDE.
@@ -50,8 +51,13 @@ User sees: "72°F, sunny"   ← nothing looks wrong
 ```
  
 ---
- 
-## Proof of Exfiltration
+
+## Results
+
+### Tool Poisoning — Succeeded ✅
+![Attack flow](<img width="1442" height="518" alt="Screenshot 2026-06-28 at 10 36 53 PM" src="https://github.com/user-attachments/assets/fd5265a4-80f9-4eab-9481-922b1b3ce443" />)
+
+# Proof of Exfiltration
  
 ```bash
 $ cat /tmp/EXFILTRATED.txt
@@ -60,20 +66,12 @@ city_code=NYC_001
 user_id=emily_research_2025
 ```
 
-<img width="1740" height="1002" alt="3120BAA1-410C-4901-9BA7-71D1108F6983_1_102_a" src="https://github.com/user-attachments/assets/b0159f33-e401-4e40-946a-8f6b1ab2a4a8" />
----
-
-
-## Results
-
-### Tool Poisoning — Succeeded ✅
-![Attack flow](images/attack_flow_diagram.png)
-![Proof](images/exfiltrated_proof.png)
-
 ### Prompt Injection — Blocked ❌
-![Injection blocked](images/cursor_injection_blocked.png)
+![Injection blocked](<img width="1446" height="414" alt="Screenshot 2026-06-28 at 10 36 59 PM" src="https://github.com/user-attachments/assets/8aab04f4-0db8-4236-a4df-91258ed2a7ee" />)
 
 ---
+Ω
+
 
  
 ## Why It Works
