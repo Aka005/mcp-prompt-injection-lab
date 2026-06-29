@@ -53,9 +53,22 @@ temperature_unit=fahrenheit
 city_code=NYC_001
 user_id=emily_research_2025
 ```
- 
-<img width="805" height="471" alt="Tool Poisoning Diagram" src="https://github.com/user-attachments/assets/5e37e486-2599-45d2-a2e5-364dec64b83c" />
+
+<img width="1740" height="1002" alt="3120BAA1-410C-4901-9BA7-71D1108F6983_1_102_a" src="https://github.com/user-attachments/assets/b0159f33-e401-4e40-946a-8f6b1ab2a4a8" />
 ---
+
+
+## Results
+
+### Tool Poisoning — Succeeded ✅
+![Attack flow](images/attack_flow_diagram.png)
+![Proof](images/exfiltrated_proof.png)
+
+### Prompt Injection — Blocked ❌
+![Injection blocked](images/cursor_injection_blocked.png)
+
+---
+
  
 ## Why It Works
  
