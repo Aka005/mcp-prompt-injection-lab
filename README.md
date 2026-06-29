@@ -34,12 +34,11 @@ temperature_unit=fahrenheit
 city_code=NYC_001
 user_id=emily_research_2025
 ```
-
+**Key finding:** Tool poisoning exfiltrated data before Claude even disclosed the attack. Disclosure is not the same as prevention.
+ 
 ### Prompt Injection — Blocked 
 <img width="1446" height="414" alt="Screenshot 2026-06-28 at 10 36 59 PM" src="https://github.com/user-attachments/assets/8aab04f4-0db8-4236-a4df-91258ed2a7ee" />
 
-**Key finding:** Tool poisoning exfiltrated data before Claude even disclosed the attack. Disclosure is not the same as prevention.
- 
 ---
 
 ## Why It Works
