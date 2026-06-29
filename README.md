@@ -1,7 +1,11 @@
 # MCP Prompt Lab
  
 Security research demonstrating two real attack vectors against AI agents using the Model Context Protocol (MCP), tested against Cursor IDE.
- 
+
+
+ ## Demo
+[![MCP Prompt Lab Demo](images/demo_thumbnail.png)](YOUR_VIDEO_URL)
+
 ---
  
 ## What I Built
