@@ -5,7 +5,11 @@ Security research demonstrating two real attack vectors against AI agents using 
 
  ## Demo
 
-https://github.com/user-attachments/assets/6fb8806f-7a48-46aa-9fe4-750c7f69a56c
+
+
+https://github.com/user-attachments/assets/18e63a93-dd02-4b88-8531-a2499e504f20
+
+
 
 ---
 
